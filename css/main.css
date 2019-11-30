@@ -1,0 +1,27 @@
+html {
+  font-family: Georgia;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #f0eee8;
+}
+
+.link-card {
+  display: block;
+  border-color: #9a816d;
+  border-style: solid;
+  border-width: 2px;
+  background-color: #dcd4cd;
+}
+
+.link-card h2 {
+  font-family: Dosis, sans-serif;
+  color: #512200;
+  margin: 1rem;
+}
