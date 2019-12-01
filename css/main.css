@@ -16,13 +16,14 @@ p {
   color: #512200;
   margin: 1em;
   padding-bottom: 1rem;
+  border-bottom: #9a816d solid;
 }
 
 .link-card {
   display: block;
   border-color: #9a816d;
   border-style: solid;
-  border-width: 2px;
+  border-width: 3px;
   background-color: #dcd4cd;
   text-decoration: none;
   border: 2px 3px;
@@ -39,6 +40,9 @@ dl {
   color: #512200;
   font-size: .875rem;
   margin: 1em;
+  border-bottom: #9a816d solid;
+  padding-bottom: 1em;
+
 }
 
 dt {
