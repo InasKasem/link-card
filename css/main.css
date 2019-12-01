@@ -61,3 +61,23 @@ dd {
   border-color: #9a816d;
   color: #512200;
 }
+
+.btn {
+  background-color: #785439;
+  color: #fff;
+  display: inline-block;
+  border-radius: 8px;
+  font-family: Dosis, sans-serif;
+  padding: .4em .75em .5em;
+  margin: 1em;
+  font-weight: bold;
+}
+
+.link-card:hover .btn {
+  background-color: #512200;
+  color: #f0eee8;
+}
+
+.btn-end {
+  text-align: center;
+}
